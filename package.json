@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/aboutMe.html",
-    "build": "webpack"
+    "start": "node src/aboutMe.html"
   },
   "repository": {
     "type": "git",
