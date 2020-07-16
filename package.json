@@ -1,0 +1,19 @@
+{
+  "name": "testsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cristian-Dot-Creator/testsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cristian-Dot-Creator/testsite/issues"
+  },
+  "homepage": "https://github.com/Cristian-Dot-Creator/testsite#readme"
+}
